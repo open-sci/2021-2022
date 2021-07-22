@@ -1,6 +1,6 @@
 # Open Science
 
-This space contains all the material related to the Open Science course of the [Digital Humanities and Digital Knowledge](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/443753) degree at the [University of Bologna](https://www.unibo.it).
+This space contains all the material related to the Open Science course of the [Digital Humanities and Digital Knowledge](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/443753) degree at the [University of Bologna](https://www.unibo.it).
 
 ## Academic year 2021/2022
 
