@@ -38,3 +38,6 @@ This space contains all the material related to the Open Science course of the [
 
 9. Open Infrastructures
    <hr></hr>
+
+10. Citizen Science
+    <hr></hr>
