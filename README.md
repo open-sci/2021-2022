@@ -70,14 +70,14 @@ Video presentations about Open Science stuff:
 ### Schedule
 
 <table>
-    <tr>23 March 2022<td></td><td>12:30-15:30</td><td>Introduction to Open Science</td></tr>
-    <tr>24 March 2022<td></td><td>12:30-15:30</td><td>Reproducibility</td></tr>
-    <tr>30 March 2022<td></td><td>12:30-15:30</td><td>FAIR and Open Data</td></tr>
-    <tr>31 March 2022<td></td><td>12:30-15:30</td><td>Open Methodology</td></tr>
-    <tr>6 April 2022<td></td><td>12:30-15:30</td><td>Open Peer Review</td></tr>
-    <tr>7 April 2022<td></td><td>12:30-15:30</td><td>Open Source Software</td></tr>
-    <tr>13 April 2022<td></td><td>12:30-15:30</td><td>Open Access</td></tr>
-    <tr>20 April 2022<td></td><td>12:30-15:30</td><td>Open Metrics</td></tr>
-    <tr>21 April 2022<td></td><td>12:30-15:30</td><td>Open Infrastructures</td></tr>
-    <tr>27 April 2022<td></td><td>12:30-15:30</td><td>Final seminar</td></tr>
+    <tr><td>23 March 2022</td><td>12:30-15:30</td><td>Introduction to Open Science</td></tr>
+    <tr><td>24 March 2022</td><td>12:30-15:30</td><td>Reproducibility</td></tr>
+    <tr><td>30 March 2022</td><td>12:30-15:30</td><td>FAIR and Open Data</td></tr>
+    <tr><td>31 March 2022</td><td>12:30-15:30</td><td>Open Methodology</td></tr>
+    <tr><td>6 April 2022</td><td>12:30-15:30</td><td>Open Peer Review</td></tr>
+    <tr><td>7 April 2022</td><td>12:30-15:30</td><td>Open Source Software</td></tr>
+    <tr><td>13 April 2022</td><td>12:30-15:30</td><td>Open Access</td></tr>
+    <tr><td>20 April 2022</td><td>12:30-15:30</td><td>Open Metrics</td></tr>
+    <tr><td>21 April 2022</td><td>12:30-15:30</td><td>Open Infrastructures</td></tr>
+    <tr><td>27 April 2022</td><td>12:30-15:30</td><td>Final seminar</td></tr>
 </table>
