@@ -31,6 +31,19 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 2. [24 March 2022, 12:30-15:30] Reproducibility
+   * Theoretical part: [slide](https://docs.google.com/presentation/d/1N2TC1GV2ACTtO97KNGIcF9EUxX2_ZMU9YhPbed71hlg/edit?usp=sharing)
+   * Practical part (Project Presentation): [slide](https://docs.google.com/presentation/d/1k3HTXglMmbEX3uVuniTVoxNMgF4lkWrgWAUILvONpKI/edit?usp=sharing)
+   * Bibliography
+     * Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a
+     * Cobo, M. J., Dehdarirad, T., García-Sánchez, P., & Moral-Munoz, J. A. (2018). Quantifying the reproducibility of scientometric analyses: A case study. STI 2018 Conference Proceedings, 925–933. https://hdl.handle.net/1887/65242
+     * Fanelli, D. (2018). Opinion: Is science really facing a reproducibility crisis, and do we need it to? Proceedings of the National Academy of Sciences, 115(11), 2628–2631. https://doi.org/10.1073/pnas.1708272114
+     * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Meng, X.-L. (2020). Reproducibility, Replicability, and Reliability. Harvard Data Science Review, 2(4). https://doi.org/10.1162/99608f92.dbfce7f9
+     * Moylan, E. C., & Kowalczuk, M. K. (2016). Why articles are retracted: A retrospective cross-sectional study of retraction notices at BioMed Central. BMJ Open, 6(11), e012047. https://doi.org/10.1136/bmjopen-2016-012047
+     * Peels, R., & Bouter, L. (2018). The possibility and desirability of replication in the humanities. Palgrave Communications, 4(1), 95. https://doi.org/10.1057/s41599-018-0149-x
+     * Peng, R. (2015). The reproducibility crisis in science: A statistical counterattack. Significance, 12(3), 30–32. https://doi.org/10.1111/j.1740-9713.2015.00827.x
+     * Schnell, S. (2015). Ten Simple Rules for a Computational Biologist’s Laboratory Notebook. PLOS Computational Biology, 11(9), e1004385. https://doi.org/10.1371/journal.pcbi.1004385
+     * Velden, T., Hinze, S., Scharnhorst, A., Schneider, J. W., & Waltman. (2018). Exploration of reproducibility issues in scientometric research. In R. Costas, T. Franssen, & A. Yegros-Yegros (Eds.), STI 2018 Conference Proceedings (pp. 612–624). Centre for Science and Technology Studies. https://hdl.handle.net/1887/65315
    <hr></hr>
 
 3. [30 March 2022, 12:30-15:30] FAIR and Open Data
