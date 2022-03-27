@@ -32,7 +32,7 @@ This space contains all the material related to the Open Science course of the [
 
 2. [24 March 2022, 12:30-15:30] Reproducibility
    * Theoretical part: [slide](https://docs.google.com/presentation/d/1N2TC1GV2ACTtO97KNGIcF9EUxX2_ZMU9YhPbed71hlg/edit?usp=sharing)
-   * Practical part (Project Presentation): [slide](https://docs.google.com/presentation/d/1k3HTXglMmbEX3uVuniTVoxNMgF4lkWrgWAUILvONpKI/edit?usp=sharing)
+   * Practical part: [slide](https://docs.google.com/presentation/d/1k3HTXglMmbEX3uVuniTVoxNMgF4lkWrgWAUILvONpKI/edit?usp=sharing)
    * Bibliography
      * Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a
      * Cobo, M. J., Dehdarirad, T., García-Sánchez, P., & Moral-Munoz, J. A. (2018). Quantifying the reproducibility of scientometric analyses: A case study. STI 2018 Conference Proceedings, 925–933. https://hdl.handle.net/1887/65242
@@ -68,6 +68,9 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 10. [27 April 2022, 12:30-15:30] Final seminar
+    <hr></hr>
+
+11. [25 May 2022, 9:00-13:00] Workshop
     <hr></hr>
 
 
