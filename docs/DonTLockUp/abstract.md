@@ -14,3 +14,5 @@ We revealed that the coverage of open citations in DOAJ can be improved, and tha
 
 ### Originality
 Our research is valuable for the open access domain, by revealing trends on the data of DOAJ. In the future more questions can be build on our research.
+
+**Keywords:** citations, OpenCitations, open access, DOAJ, availability
