@@ -68,6 +68,20 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 4. [31 March 2022, 12:30-15:30] Open Methodology
+   * Theoretical part: [slide](https://docs.google.com/presentation/d/152qTNhrBZ8Bz5Cssx1xDtn07WHsyuAFI1YWF28uNK8c/edit?usp=sharing)
+   * Practical part: [slide](https://docs.google.com/presentation/d/1ODujBmeKCJmIBqZlzVBPioU_LPYaospnKs7CxQ0W_Ww/edit?usp=sharing)
+   * Bibliography
+     * Beg, M., Taka, J., Kluyver, T., Konovalov, A., Ragan-Kelley, M., Thiery, N. M., & Fangohr, H. (2021). Using Jupyter for Reproducible Scientific Workflows. Computing in Science & Engineering, 23(2), 36–46. https://doi.org/10.1109/MCSE.2021.3052101
+     * Belhajjame, K., Zhao, J., Garijo, D., Gamble, M., Hettne, K., Palma, R., Mina, E., Corcho, O., Gómez-Pérez, J. M., Bechhofer, S., Klyne, G., & Goble, C. (2015). Using a suite of ontologies for preserving workflow-centric research objects. Journal of Web Semantics, 32, 16–42. https://doi.org/10.1016/j.websem.2015.01.003
+     * Bolderston, A. (2008). Writing an Effective Literature Review. Journal of Medical Imaging and Radiation Sciences, 39(2), 86–92. https://doi.org/10.1016/j.jmir.2008.04.009
+     * Celebi, R., Rebelo Moreira, J., Hassan, A. A., Ayyar, S., Ridder, L., Kuhn, T., & Dumontier, M. (2020). Towards FAIR protocols and workflows: The OpenPREDICT use case. PeerJ Computer Science, 6, e281. https://doi.org/10.7717/peerj-cs.281
+     * Clarke, P., Buckell, J., & Barnett, A. (2020). Registered Reports: Time to Radically Rethink Peer Review in Health Economics. PharmacoEconomics - Open, 4(1), 1–4. https://doi.org/10.1007/s41669-019-00190-x
+     * Goble, C., Cohen-Boulakia, S., Soiland-Reyes, S., Garijo, D., Gil, Y., Crusoe, M. R., Peters, K., & Schober, D. (2020). FAIR Computational Workflows. Data Intelligence, 2(1–2), 108–121. https://doi.org/10.1162/dint_a_00033
+     * Hrynaszkiewicz, I. (2020, December 7). Show your work. Peer-Reviewed Protocols. The Official PLOS Blog. https://theplosblog.plos.org/2020/12/show-your-work-peer-reviewed-protocols/
+     * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Perneger, T. V. (2004). Writing a research article: Advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053
+     * Teytelman, L., Stoliartchouk, A., Kindler, L., & Hurwitz, B. L. (2016). Protocols.io: Virtual Communities for Protocol Development and Discussion. PLOS Biology, 14(8), e1002538. https://doi.org/10.1371/journal.pbio.1002538
+     * Watson, M. (2015). When will ‘open science’ become simply ‘science’? Genome Biology, 16(1), 101. https://doi.org/10.1186/s13059-015-0669-2
    <hr></hr>
 
 5. [6 April 2022, 12:30-15:30] Open Peer Review
