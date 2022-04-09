@@ -132,6 +132,9 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 10. [27 April 2022, 12:30-15:30] Final seminar
+    * Title: Open Science is here to stay
+    * Abstract: What lessons did we learn from the COVID pandemic? How has the crisis impacted the current scholarly communication system? And, all in all, does the current scholarly communication work? Are you happy with the way your research is evaluated? During this workshop we shall see the reasons why we need Open Science, how it works, and what you can do starting tomorrow to open up every step of your research - without harming your career. We shall also try to overcome common misunderstandings on Open Access, Open Science and FAIR data and we shall discuss the future of research in the EOSC - European Open Science Cloud era.
+    * Speaker: [Elena Giglia](https://www.oa.unito.it/new/wp-content/uploads/2022/04/Giglia_BIO_eng_2022.pdf), PhD, Masters' Degree in Librarianship and Masters' Degree in Public Institutions Management, is Head of the Open Science Unit at the University of Turin. She has been part of the European Open Science network for many years, attending national and international conferences, and writing and lecturing on Open Access and Open Science. She was a member (2019-2020) of the Committee on Open Science at the Ministry for University and Research (MUR). She actively collaborates with the ICDI – Italian Computer and Data Infrastructure Competence center on Open Science, EOSC and FAIR data and with several national and international projects. She is a member of the EOSC Association Task Force Researchers Engagement and Adoption, where she represents the Research infrastructure OPERAS for Open Science in the Social Sciences and the Humanities. She serves in several Scientific Committees and Advisory Boards. 
     <hr></hr>
 
 11. [25 May 2022, 9:00-13:00] Workshop
