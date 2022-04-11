@@ -104,6 +104,22 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 6. [7 April 2022, 12:30-15:30] Open Source Software
+   * Theoretical part: [slide](https://docs.google.com/presentation/d/1QHS1kejl_K3JmDrUbuGpbVb5FtMNTa4N2IwLO_niwnA/edit?usp=sharing)
+   * Practical part (Software must be cited): [slide](https://docs.google.com/presentation/d/1LHPGt18AhFF-VkzQljlsiADWCnWvzy-I6ZoMDNtJMqo/edit?usp=sharing)
+   * Bibliography:
+     * Abramatic, J.-F., Di Cosmo, R., & Zacchiroli, S. (2018). Building the universal archive of source code. Communications of the ACM, 61(10), 29–31. https://doi.org/10.1145/3183558, available in OA at https://hal.archives-ouvertes.fr/hal-02157125
+     * Alliez, P., Cosmo, R. D., Guedj, B., Girault, A., Hacid, M.-S., Legrand, A., & Rougier, N. (2020). Attributing and Referencing (Research) Software: Best Practices and Outlook From Inria. Computing in Science & Engineering, 22(1), 39–52. https://doi.org/10.1109/MCSE.2019.2949413, available in OA at https://hal.archives-ouvertes.fr/hal-02135891
+     * Chacon, S., & Straub, B. (2014). Pro Git (Second edition). Apress. https://git-scm.com/book/en/v2
+     * Cohen, J., Katz, D. S., Barker, M., Chue Hong, N., Haines, R., & Jay, C. (2021). The Four Pillars of Research Software Engineering. IEEE Software, 38(1), 97–105. https://doi.org/10.1109/MS.2020.2973362, available in OA at https://arxiv.org/abs/2002.01035
+     * Cosmo, R. D., Gruenpeter, M., & Zacchiroli, S. (2020). Referencing Source Code Artifacts: A Separate Concern in Software Citation. Computing in Science & Engineering, 22(2), 33–43. https://doi.org/10.1109/MCSE.2019.2963148, available in OA at https://arxiv.org/abs/2001.08647
+     * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Lamprecht, A.-L., Garcia, L., Kuzak, M., Martinez, C., Arcila, R., Martin Del Pico, E., Dominguez Del Angel, V., van de Sandt, S., Ison, J., Martinez, P. A., McQuilton, P., Valencia, A., Harrow, J., Psomopoulos, F., Gelpi, J. Ll., Chue Hong, N., Goble, C., & Capella-Gutierrez, S. (2020). Towards FAIR principles for research software. Data Science, 3(1), 37–59. https://doi.org/10.3233/DS-190026
+     * Nuvolari, A. (2005). Open source software development: Some historical perspectives. First Monday. https://doi.org/10.5210/fm.v10i10.1284
+     * Open Source Initiative. (2007). The Open Source Definition. https://opensource.org/osd
+     * Prlić, A., & Procter, J. B. (2012). Ten Simple Rules for the Open Development of Scientific Software. PLoS Computational Biology, 8(12), e1002802. https://doi.org/10.1371/journal.pcbi.1002802
+     * Raymond, E. S. (2000). The cathedral and the bazaar: Musings on Linux and open source by an accidental revolutionary (Version 3.0). O’Reilly Media. http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
+     * Smith, A. M., Katz, D. S., Niemeyer, K. E., & FORCE11 Software Citation Working Group. (2016). Software citation principles. PeerJ Computer Science, 2, e86. https://doi.org/10.7717/peerj-cs.86
+     * Tennant, J., Agarwal, R., Baždarić, K., Brassard, D., Crick, T., Dunleavy, D. J., Evans, T. R., Gardner, N., Gonzalez-Marquez, M., Graziotin, D., Greshake Tzovaras, B., Gunnarsson, D., Havemann, J., Hosseini, M., Katz, D. S., Knöchelmann, M., Madan, C. R., Manghi, P., Marocchino, A., … Yarkoni, T. (2020). A tale of two ‘opens’: Intersections between Free and Open Source Software and Open Scholarship [Preprint]. SocArXiv. https://doi.org/10.31235/osf.io/2kxq8
    <hr></hr>
 
 7. [13 April 2022, 12:30-15:30] Open Access
@@ -116,6 +132,9 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 10. [27 April 2022, 12:30-15:30] Final seminar
+    * Title: Open Science is here to stay
+    * Abstract: What lessons did we learn from the COVID pandemic? How has the crisis impacted the current scholarly communication system? And, all in all, does the current scholarly communication work? Are you happy with the way your research is evaluated? During this workshop we shall see the reasons why we need Open Science, how it works, and what you can do starting tomorrow to open up every step of your research - without harming your career. We shall also try to overcome common misunderstandings on Open Access, Open Science and FAIR data and we shall discuss the future of research in the EOSC - European Open Science Cloud era.
+    * Speaker: [Elena Giglia](https://www.oa.unito.it/new/wp-content/uploads/2022/04/Giglia_BIO_eng_2022.pdf), PhD, Masters' Degree in Librarianship and Masters' Degree in Public Institutions Management, is Head of the Open Science Unit at the University of Turin. She has been part of the European Open Science network for many years, attending national and international conferences, and writing and lecturing on Open Access and Open Science. She was a member (2019-2020) of the Committee on Open Science at the Ministry for University and Research (MUR). She actively collaborates with the ICDI – Italian Computer and Data Infrastructure Competence center on Open Science, EOSC and FAIR data and with several national and international projects. She is a member of the EOSC Association Task Force Researchers Engagement and Adoption, where she represents the Research infrastructure OPERAS for Open Science in the Social Sciences and the Humanities. She serves in several Scientific Committees and Advisory Boards. 
     <hr></hr>
 
 11. [25 May 2022, 9:00-13:00] Workshop
