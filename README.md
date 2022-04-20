@@ -105,7 +105,7 @@ This space contains all the material related to the Open Science course of the [
 
 6. [7 April 2022, 12:30-15:30] Open Source Software
    * Theoretical part: [slide](https://docs.google.com/presentation/d/1QHS1kejl_K3JmDrUbuGpbVb5FtMNTa4N2IwLO_niwnA/edit?usp=sharing)
-   * Practical part (Software must be cited): [slide](https://docs.google.com/presentation/d/1LHPGt18AhFF-VkzQljlsiADWCnWvzy-I6ZoMDNtJMqo/edit?usp=sharing)
+   * Practical part: [slide](https://docs.google.com/presentation/d/1LHPGt18AhFF-VkzQljlsiADWCnWvzy-I6ZoMDNtJMqo/edit?usp=sharing)
    * Bibliography:
      * Abramatic, J.-F., Di Cosmo, R., & Zacchiroli, S. (2018). Building the universal archive of source code. Communications of the ACM, 61(10), 29–31. https://doi.org/10.1145/3183558, available in OA at https://hal.archives-ouvertes.fr/hal-02157125
      * Alliez, P., Cosmo, R. D., Guedj, B., Girault, A., Hacid, M.-S., Legrand, A., & Rougier, N. (2020). Attributing and Referencing (Research) Software: Best Practices and Outlook From Inria. Computing in Science & Engineering, 22(1), 39–52. https://doi.org/10.1109/MCSE.2019.2949413, available in OA at https://hal.archives-ouvertes.fr/hal-02135891
@@ -123,6 +123,26 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 7. [13 April 2022, 12:30-15:30] Open Access
+   * Theoretical part: [slide](https://docs.google.com/presentation/d/1Knlc6MLSBd6bPI1IexA0gfZ3ejl9zODyptoy1zPdxPY/edit?usp=sharing)
+   * Practical part: [slide](https://docs.google.com/presentation/d/1QFTaIfCRATf8EFRvanRz67U4xHpb8zw5FUeEpSwJd20/edit?usp=sharing)
+   * Bibliography:
+     * Bahlai, C., Bartlett, L., Burgio, K., Fournier, A., Keiser, C., Poisot, T., & Whitney, K. (2019). Open Science Isn’t Always Open to All Scientists. American Scientist, 107(2), 78. https://doi.org/10.1511/2019.107.2.78
+     * Bosman, J., Frantsvåg, J. E., Kramer, B., Langlais, P.-C., & Proudman, V. (2021). OA Diamond Journals Study. Part 1: Findings. Zenodo. https://doi.org/10.5281/ZENODO.4558704
+     * Brainard, J. (2021). Open access takes flight. Science, 371(6524), 16–20. https://doi.org/10.1126/science.371.6524.16
+     * Chan, L., Cuplinskas, D., Eisen, M., Friend, F., Genova, Y., Guédon, J.-C., Hagemann, M., Harnad, S., Johnson, R., Kupryte, R., La Manna, M., Rév, I., Segbert, M., de Souza, S., Suber, P., & Velterop, J. (2002). Read the Budapest Open Access Initiative. https://www.budapestopenaccessinitiative.org/read
+     * Cobb, M. (2017). The prehistory of biology preprints: A forgotten experiment from the 1960s. PLOS Biology, 15(11), e2003995. https://doi.org/10.1371/journal.pbio.2003995
+     * Else, H. (2021). A guide to Plan S: The open-access initiative shaking up science publishing. Nature, d41586-021-00883–00886. https://doi.org/10.1038/d41586-021-00883-6
+     * European Union. (2015). Open access. https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/open-access_en.htm
+     * Fyfe, A. (2021). Self-help for learned journals: Scientific societies and the commerce of publishing in the 1950s. History of Science, 007327532199990. https://doi.org/10.1177/0073275321999901
+     * Kallestinova, E. D. (2011). How to write your first research paper. The Yale Journal of Biology and Medicine, 84(3), 181–190. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178846/
+     * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Logan, C. J. (2017). We can shift academic culture through publishing choices. F1000Research, 6, 518. https://doi.org/10.12688/f1000research.11415.2
+     * Piwowar, H., Priem, J., Larivière, V., Alperin, J. P., Matthias, L., Norlander, B., Farley, A., West, J., & Haustein, S. (2018). The state of OA: A large-scale analysis of the prevalence and impact of Open Access articles. PeerJ, 6, e4375. https://doi.org/10.7717/peerj.4375
+     * Redhead, C. (2012, October 23). Why CC-BY? Blog of the Open Access Scholarly Publishing Association. https://oaspa.org/why-cc-by/
+     * Tennant, J. (2018). What do penguins, Gimli, and cobras have to do with Open Science? DARIAH Annual Event 2018, Paris, France. figshare. https://doi.org/10.6084/M9.FIGSHARE.6326339.V1
+     * Tennant, J. P., Crane, H., Crick, T., Davila, J., Enkhbayar, A., Havemann, J., Kramer, B., Martin, R., Masuzzo, P., Nobes, A., Rice, C., Rivera-López, B., Ross-Hellauer, T., Sattler, S., Thacker, P. D., & Vanholsbeeck, M. (2019). Ten Hot Topics around Scholarly Publishing. Publications, 7(2), 34. https://doi.org/10.3390/publications7020034
+     * Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. B., & Hartgerink, Chris. H. J. (2016). The academic, economic and societal impacts of Open Access: An evidence-based review. F1000Research, 5, 632. https://doi.org/10.12688/f1000research.8460.3
+     * UNESCO. (2013). UNESCO Open Access Publications. https://en.unesco.org/open-access/
    <hr></hr>
 
 8. [20 April 2022, 12:30-15:30] Open Metrics
