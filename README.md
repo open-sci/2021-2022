@@ -192,7 +192,19 @@ This space contains all the material related to the Open Science course of the [
     * Speaker: [Elena Giglia](https://www.oa.unito.it/new/wp-content/uploads/2022/04/Giglia_BIO_eng_2022.pdf), PhD, Masters' Degree in Librarianship and Masters' Degree in Public Institutions Management, is Head of the Open Science Unit at the University of Turin. She has been part of the European Open Science network for many years, attending national and international conferences, and writing and lecturing on Open Access and Open Science. She was a member (2019-2020) of the Committee on Open Science at the Ministry for University and Research (MUR). She actively collaborates with the ICDI – Italian Computer and Data Infrastructure Competence center on Open Science, EOSC and FAIR data and with several national and international projects. She is a member of the EOSC Association Task Force Researchers Engagement and Adoption, where she represents the Research infrastructure OPERAS for Open Science in the Social Sciences and the Humanities. She serves in several Scientific Committees and Advisory Boards. 
     <hr></hr>
 
-11. [25 May 2022, 9:00-13:00] Workshop
+11. [25 May 2022, 9:00-11:00] Workshop
+    * Programme
+      * 09:00-09:05 | welcoming and instructions
+      * 09:05-09:55 | project presentation by [Don’t lock up](https://github.com/open-sci/2021-2022/tree/main/docs/DonTLockUp/material.md)
+      * 09:55-10:00 | break
+      * 10:00-10:50 | project presentation by [La Chouffe](https://github.com/open-sci/2021-2022/tree/main/docs/LaChouffe/material.md)
+      * 10:50-11:00 | farewell
+    * Organisation 
+      * Each group has its own presentation slot (50 minutes) organised as follows:
+         * 5 minutes to set up the presentation
+         * 20 minutes for presenting the project
+         * 25 minutes for Q&A (invited experts + audience)
+      * Each question is mediated by the professor, who decide the member of the group who has to answer it
     <hr></hr>
 
 
