@@ -3,3 +3,5 @@ private/
 .idea
 venv/
 docs/DonTLockUp/.ipynb_checkpoints/
+.DS_Store
+docs/.DS_Store
