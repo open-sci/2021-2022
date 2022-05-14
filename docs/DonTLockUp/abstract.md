@@ -1,18 +1,17 @@
 ### Purpose
-Citations are always important in scientific research. In the domain of Open Science, the Initiative for Open Citations promotes the availability of data on citations with OpenCitations. *As of March 2021, the fraction of publications with open references has grown from 1% to 87% out of 54.2 million articles with references deposited with Crossref.* ([i4oc.org](https://i4oa.org/))
+Citations are the pillar of academia. All scientific studies naturally refer to other works. The study aims to reveal the coverage, in terms of citations, of the open access journals in DOAJ according to the data available in OpenCitations. In addition, the study presents the quantitative status of the references between these sources and points out the trend of availability in the years.
 
-Our goal is to find out 
-* about the coverage of articles from open access journals in DOAJ journals as citing and cited articles,
-* how many citations do DOAJ journals receive and do, and how many of these citations involve open access articles as both citing and cited entities,
-* as well as the presence of trends over time of the availability of citations involving articles published in open access journals in DOAJ journals.
 
 ### Approach
-We used the data available in OpenCitations, such as the Index of Crossref open DOI-to-DOI citations (COCI). We used the REST API to use the data available in DOAJ and OpenCitations.
+We obtained the input data of our study from DOAJ and OpenCitations platforms by downloading the public data dump of DOAJ articles and the OpenCitations' COCI. In order to improve efficiency and avoid the long search time, we downloaded the entire dataset directly instead of using the API. We filtered these two large datasets by using Python Programming Language and several libraries. In the final step we carried out a visualization of the output data.
+
 
 ### Findings
-We revealed that the coverage of open citations in DOAJ can be improved, and that many of these citations involve articles which are not in open access, but that the trend is still increasing.
+In our study we found out the number of citations that DOAJ journals receive and do as well as how many of these citations involve articles in open access journals as both citing and cited entities. In addition to these we exposed the annual trend of involved citations in DOAJ. We analyzed the coverage of articles in terms of open access journals in DOAJ according to the data available in OpenCitations.
+
 
 ### Originality
-Our research is valuable for the open access domain, by revealing trends on the data of DOAJ. In the future more questions can be build on our research.
+In order to improve the quality of scholarly communication, the data related to citations must be open and accessible by everyone. DOAJ and OpenCitations are important infrastructures that provide citation data openly. By revealing the coverage of Open Access journals in the above-mentioned organizations and presenting the yearly trend of involved citations in DOAJ we may draw attention to the importance of independent OA infrastructure in academic publishing, and may provide important aspects on why scientific studies should be open.
 
-**Keywords:** citations, OpenCitations, open access, DOAJ, availability
+
+**Keywords:** open science, citations, OpenCitations, open access, DOAJ, trend of availability

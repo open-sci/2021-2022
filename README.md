@@ -146,9 +146,44 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 8. [20 April 2022, 12:30-15:30] Open Metrics
+   * Theoretical part: [slide](https://docs.google.com/presentation/d/1Xuq1nH2-9gvtf4FB6MGPUoj0FS3E1K_6MAGsncPNTvU/edit?usp=sharing)
+   * Practical part: [slide](https://docs.google.com/presentation/d/1sw4jgkDNufu784mL2hIDqZHlRtzTRG1emMzjdkaZsg0/edit?usp=sharing)
+   * Bibliography:
+     * Artrake Studio. (2020, June). What can DNA test really tell us about our ancestry? https://www.ted.com/talks/prosanta_chakrabarty_what_can_dna_tests_really_tell_us_about_our_ancestry
+     * Baccini, A., De Nicolao, G., & Petrovich, E. (2019). Citation gaming induced by bibliometric evaluation: A country-level comparative analysis. PLOS ONE, 14(9), e0221212. https://doi.org/10.1371/journal.pone.0221212
+     * Cagan, R. (2013). The San Francisco Declaration on Research Assessment. Disease Models & Mechanisms, 6(4), 869–870. https://doi.org/10.1242/dmm.012955
+     * Cameron, R. D. (1997). A Universal Citation Database As a Catalyst For Reform In Scholarly Communication. First Monday, 2(4). https://doi.org/10.5210/fm.v2i4.522
+     * Else, H. (2018). How Unpaywall is transforming open science. Nature, 560(7718), 290–291. https://doi.org/10.1038/d41586-018-05968-3
+     * Garfield, E. (1955). Citation Indexes for Science: A New Dimension in Documentation through Association of Ideas. Science, 122(3159), 108–111. https://doi.org/10.1126/science.122.3159.108, available in OA at http://garfield.library.upenn.edu/essays/v6p468y1983.pdf)
+     * Garfield, E. (2006). The History and Meaning of the Journal Impact Factor. JAMA, 295(1), 90. https://doi.org/10.1001/jama.295.1.90, available in OA at https://garfield.library.upenn.edu/papers/jamajif2006.pdf)
+     * Haak, L. L., Fenner, M., Paglione, L., Pentz, E., & Ratner, H. (2012). ORCID: A system to uniquely identify researchers. Learned Publishing, 25(4), 259–264. https://doi.org/10.1087/20120404
+     * Hicks, D., Wouters, P., Waltman, L., de Rijcke, S., & Rafols, I. (2015). Bibliometrics: The Leiden Manifesto for research metrics. Nature, 520(7548), 429–431. https://doi.org/10.1038/520429a
+     * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Larivière, V., & Sugimoto, C. R. (2019). The Journal Impact Factor: A Brief History, Critique, and Discussion of Adverse Effects. In W. Glänzel, H. F. Moed, U. Schmoch, & M. Thelwall (Eds.), Springer Handbook of Science and Technology Indicators (pp. 3–24). Springer International Publishing. https://doi.org/10.1007/978-3-030-02511-3_1, availablie in OA at https://arxiv.org/abs/1801.08992
+     * Mohammadi, E., Thelwall, M., Kwasny, M., & Holmes, K. L. (2018). Academic information on Twitter: A user survey. PLOS ONE, 13(5), e0197265. https://doi.org/10.1371/journal.pone.0197265
+     * Priem, J., Groth, P., & Taraborelli, D. (2012). The Altmetrics Collection. PLoS ONE, 7(11), e48753. https://doi.org/10.1371/journal.pone.0048753
+     * Rettberg, N., & Schmidt, B. (2012). OpenAIRE - Building a collaborative Open Access infrastructure for European researchers. LIBER Quarterly, 22(3), 160. https://doi.org/10.18352/lq.8110
+     * Tennant, J. P., Crane, H., Crick, T., Davila, J., Enkhbayar, A., Havemann, J., Kramer, B., Martin, R., Masuzzo, P., Nobes, A., Rice, C., Rivera-López, B., Ross-Hellauer, T., Sattler, S., Thacker, P. D., & Vanholsbeeck, M. (2019). Ten Hot Topics around Scholarly Publishing. Publications, 7(2), 34. https://doi.org/10.3390/publications7020034
+     * Visser, M., van Eck, N. J., & Waltman, L. (2021). Large-scale comparison of bibliographic data sources: Scopus, Web of Science, Dimensions, Crossref, and Microsoft Academic. Quantitative Science Studies, 2(1), 20–41. https://doi.org/10.1162/qss_a_00112
+     * Waltman, L. (2020, September 9). Responsible research assessment requires open scholarly metadata. Workshop on Open Citations and Open Scholarly Metadata 2020, Bologna, Italy. Zenodo. https://doi.org/10.5281/zenodo.4021492
+     * Wang, K., Shen, Z., Huang, C., Wu, C.-H., Dong, Y., & Kanakia, A. (2020). Microsoft Academic Graph: When experts are not enough. Quantitative Science Studies, 1(1), 396–413. https://doi.org/10.1162/qss_a_00021
    <hr></hr>
 
 9. [21 April 2022, 12:30-15:30] Open Infrastructures
+   * Theoretical part: [slide](https://docs.google.com/presentation/d/1Dh2Uv7g0DydXabvS6FP2QOYx1I1s7TsvmXsfPVRXXgc/edit?usp=sharing)
+   * Practical part: [slide](https://docs.google.com/presentation/d/1USObdYTaujrTikkRtqZlJ8zXh3C91dBezCxdTuskvi4/edit?usp=sharing)
+   * Bibliography:
+     * Alexandrov, A. V., & Hennerici, M. G. (2013). How to Prepare and Deliver a Scientific Presentation. Cerebrovascular Diseases, 35(3), 202–208. https://doi.org/10.1159/000346077
+     * Allen, L., O’Connell, A., & Kiermer, V. (2019). How can we ensure visibility and diversity in research contributions? How the Contributor Role Taxonomy (CRediT) is helping the shift from authorship to contributorship. Learned Publishing, 32(1), 71–74. https://doi.org/10.1002/leap.1210
+     * Aspesi, C., & Brand, A. (2020). In pursuit of open science, open access is not enough. Science, 368(6491), 574–577. https://doi.org/10.1126/science.aba3763
+     * Bilder, G., Lin, J., & Neylon, C. (2020). The Principles of Open Scholarly Infrastructure. The Principles of Open Scholarly Infrastructure. https://doi.org/10.24343/C34W2H
+     * Burgelman, J.-C. (2021). Politics and Open Science: How the European Open Science Cloud Became Reality (the Untold Story). Data Intelligence, 3(1), 5–19. https://doi.org/10.1162/dint_a_00069
+     * Doumont, J. (2011). Creating Effective Presentation Slides. Optics & Photonics News, 22(3), 12–14. https://www.osa-opn.org/home/articles/volume_22/issue_3/departments/career_focus/creating_effective_presentation_slides/
+     * Ficarra, V., Fosci, M., Chiarelli, A., Kramer, B., & Proudman, V. (2020). Scoping the Open Science Infrastructure Landscape in Europe. SPARC Europe. https://doi.org/10.5281/zenodo.4159838
+     * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Skinner, K., & Lippincott, S. (2020). Assessment Checklist (Commonplace). Knowledge Futures Group. https://doi.org/10.21428/6ffd8432.5175bab1/00710d8a
+     * Teal, T., Lowenberg, D., Smith, T., Gonzales, J. B., Nielsen, L. H., & Ioannidis, A. (2020, August 26). Sustainable, Open Source Alternatives Exist [Blog]. Dryad News and Views. https://blog.datadryad.org/2020/08/26/sustainable-infrastructure-exists/
+     * Teperek, M., & Dunning, A. (2020, August 18). Why figshare? Choosing a new technical infrastructure for 4TU.ResearchData [Blog]. Open Working. https://openworking.wordpress.com/2020/08/18/why-figshare-choosing-a-new-technical-infrastructure-for-4tu-researchdata/
    <hr></hr>
 
 10. [27 April 2022, 12:30-15:30] Final seminar
@@ -157,7 +192,19 @@ This space contains all the material related to the Open Science course of the [
     * Speaker: [Elena Giglia](https://www.oa.unito.it/new/wp-content/uploads/2022/04/Giglia_BIO_eng_2022.pdf), PhD, Masters' Degree in Librarianship and Masters' Degree in Public Institutions Management, is Head of the Open Science Unit at the University of Turin. She has been part of the European Open Science network for many years, attending national and international conferences, and writing and lecturing on Open Access and Open Science. She was a member (2019-2020) of the Committee on Open Science at the Ministry for University and Research (MUR). She actively collaborates with the ICDI – Italian Computer and Data Infrastructure Competence center on Open Science, EOSC and FAIR data and with several national and international projects. She is a member of the EOSC Association Task Force Researchers Engagement and Adoption, where she represents the Research infrastructure OPERAS for Open Science in the Social Sciences and the Humanities. She serves in several Scientific Committees and Advisory Boards. 
     <hr></hr>
 
-11. [25 May 2022, 9:00-13:00] Workshop
+11. [25 May 2022, 9:00-11:00] Workshop
+    * Programme
+      * 09:00-09:05 | welcoming and instructions
+      * 09:05-09:55 | project presentation by [Don’t lock up](https://github.com/open-sci/2021-2022/tree/main/docs/DonTLockUp/material.md)
+      * 09:55-10:00 | break
+      * 10:00-10:50 | project presentation by [La Chouffe](https://github.com/open-sci/2021-2022/tree/main/docs/LaChouffe/material.md)
+      * 10:50-11:00 | farewell
+    * Organisation 
+      * Each group has its own presentation slot (50 minutes) organised as follows:
+         * 5 minutes to set up the presentation
+         * 20 minutes for presenting the project
+         * 25 minutes for Q&A (invited experts + audience)
+      * Each question is mediated by the professor, who decide the member of the group who has to answer it
     <hr></hr>
 
 
