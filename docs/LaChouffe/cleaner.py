@@ -9,11 +9,11 @@ for journal in data:
 
     if 'pissn' in journal['bibjson']:
 
-        df[journal['bibjson']['pissn']]= {'code':'pissn', "country":journal['bibjson']['publisher']['country'], "subject":journal['bibjson']['subject'][0]['term']}
+        df[journal['bibjson']['pissn']]= {'code':'pissn', "country":journal['bibjson']['publisher']['country'], "subject":journal['bibjson']['subject'][0]}
 
     elif 'eissn' in journal['bibjson']:
 
-        df[journal['bibjson']['eissn']]= {"country":journal['bibjson']['publisher']['country'], "subject":journal['bibjson']['subject'][0]['term']}
+        df[journal['bibjson']['eissn']]= {"country":journal['bibjson']['publisher']['country'], "subject":journal['bibjson']['subject'][0]}
     else:
         print('both missing')
         
