@@ -1,5 +1,6 @@
 import json 
 import os
+from os import sep
 import argparse
 def clean(path):
     data = None
