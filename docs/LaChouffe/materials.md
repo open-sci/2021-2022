@@ -50,7 +50,7 @@ Authors' response to the reviews:
 - 
 
 ### Data Gathered
-- Brembilla, Davide, Catizone, Chiara, & Venditti, Giulia. (2022). La Chouffe Dataset (0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6562909
+- Brembilla Davide, Catizone Chiara, & Venditti Giulia. (2022). La Chouffe Dataset (0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6562909
 
 ### Article Presenting the Research
 - 
