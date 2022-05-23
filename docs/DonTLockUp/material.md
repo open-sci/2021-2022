@@ -26,7 +26,7 @@
 
 ### Data Management Plan
 
-Constance Dami, Chiara Manca, Umut Kucuk, & Alessandro Bertozzi. (2022). Coverage of open citations in DOAJ journals (Version 1). Zenodo. https://doi.org/10.5281/zenodo.6491184
+Constance Dami, Chiara Manca, Umut Kucuk, & Alessandro Bertozzi. (2022). Coverage of open citations in DOAJ journals (Version 3). Zenodo. [https://doi.org/10.5281/zenodo.6573767](https://doi.org/10.5281/zenodo.6573767)
 
 Reviews of the [Coverage of open citations in DOAJ journals](https://doi.org/10.5281/zenodo.6417368):
 * Brembilla, D. (2022). Review of: "Coverage of open citations in DOAJ journals - Data Management Plan". Qeios. doi:10.32388/N2Q3S8.
@@ -38,7 +38,7 @@ Authors' response to the reviews:
 
 ### Protocol introducing the methodology
 
-Dami, C., Bertozzi, A., Manca, C., & Kucuk, U. (2022). Coverage of open citations in DOAJ journals Protocol. Protocols.Io. https://dx.doi.org/10.17504/protocols.io.n92ldz598v5b/v4
+Dami, C., Bertozzi, A., Manca, C., & Kucuk, U. (2022). Coverage of open citations in DOAJ journals Protocol. Protocols.Io. [https://dx.doi.org/10.17504/protocols.io.n92ldz598v5b/v4](https://dx.doi.org/10.17504/protocols.io.n92ldz598v5b/v4)
 
 Reviews of the [Coverage of open citations in DOAJ journals V.1](dx.doi.org/10.17504/protocols.io.n92ldz598v5b/v1):
 * Catizone, C. (2022). Review of: ‘Coverage of open citations in DOAJ journals v1’. Qeios. https://doi.org/10.32388/IDM7UP
