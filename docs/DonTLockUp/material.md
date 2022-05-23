@@ -52,7 +52,7 @@ Constance Dami, Chiara Manca, Alessandro Bertozzi, & Umut Kucuk. (2022). Coverag
 
 
 ### The data gathered while running the methodology
-<<Bibliographic reference in APA style of the last version>>
+Alessandro Bertozzi, Constance Dami, Umut Kucuk, & Chiara Manca. (2022). Coverage of DOAJ journals\' citations through OpenCitations - Result DataSet [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6573890
 
 
 ### Article presenting the research
