@@ -48,7 +48,7 @@ Authors' response to the reviews:
 
 
 ### Software developed
-<<Bibliographic reference in APA style of the last version>>
+Constance Dami, Chiara Manca, Alessandro Bertozzi, & Umut Kucuk. (2022). Coverage of DOAJ journals\' citations through OpenCitations - Software (Version 1). Zenodo. https://doi.org/10.5281/zenodo.6573898
 
 
 ### The data gathered while running the methodology
@@ -56,7 +56,7 @@ Authors' response to the reviews:
 
 
 ### Article presenting the research
-<<Bibliographic reference in APA style of the last version>>
+Bertozzi, Alessandro, Dami, Constance, Kucuk, Umut, & Manca, Chiara. (2022). Coverage of DOAJ journals\' citations through OpenCitations. Zenodo. https://doi.org/10.5281/zenodo.6574742
 
 
 ### Slides supporting the presentation
