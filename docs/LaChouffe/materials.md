@@ -48,7 +48,8 @@ Authors' response to the reviews:
 
 
 ### Software developed
-- 
+- Brembilla, Davide, Catizone, Chiara, & Venditti, Giulia. (2022). La Chouffe Software (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.6569370
+
 
 ### Data Gathered
 - Brembilla Davide, Catizone Chiara, & Venditti Giulia. (2022). La Chouffe Dataset (0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6562909
