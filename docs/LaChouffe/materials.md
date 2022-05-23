@@ -55,7 +55,8 @@ Authors' response to the reviews:
 - Davide Brembilla, Chiara Catizone, & Giulia Venditti.  (2022). La Chouffe Dataset (0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6562909
 
 ### Article Presenting the Research
-- 
+- Davide Brembilla, Chiara Catizone & Giulia Venditti. (2022). Availability of Article Metadata from Open Journals – A case study in DOAJ and Crossref. https://doi.org/10.5281/zenodo.6570290
+
 
 ### Slides supporting the presentation
 - 
