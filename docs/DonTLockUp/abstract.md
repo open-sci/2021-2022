@@ -7,7 +7,7 @@ We obtained the input data of our study from DOAJ and OpenCitations platforms by
 
 
 ### Findings
-In our study we found out the number of citations that DOAJ journals receive and do as well as how many of these citations involve articles in open access journals as both citing and cited entities. In addition to these we exposed the annual trend of involved citations in DOAJ. We analyzed the coverage of articles in terms of open access journals in DOAJ according to the data available in OpenCitations.
+We analyzed the coverage of articles in terms of open access journals in DOAJ according to the data available in OpenCitations. DOAJ journals receive around 36 million citations and do approximately 113 million citations. 10.5 million of these citations involve articles published in open access journals as both citing and cited entities. Observing the change in the citations over the years, it can be easily stated that there has been a remarkable increase trend in the last 20 years. 
 
 
 ### Originality
