@@ -2,12 +2,12 @@
 
 ## Members
 [Alessandro Bertozzi](https://github.com/AlessandroBertozzi), roles:
-* Methodology - designed the protocol and the flowchart for the software
+* Methodology - designed and updated the protocol for the software
 * Data curation - elaborated and updated the Data Management Plan
 * Software - delevoped the computer program
 
 [Constance Dami](https://github.com/ConstiDami), roles:
-* Methodology - designed the protocol and the flowchart for the software
+* Methodology - designed and updated the protocol for the software
 * Data curation - elaborated and updated the Data Management Plan
 * Software - delevoped the computer program
 
@@ -17,7 +17,7 @@
 * Writing – review & editing: preparation and creation of the published work, specifically of critical review, commentary or revision
 
 [Chiara Manca](https://github.com/chiarasharp), roles:
-* Methodology - designed the protocol and the flowchart for the software
+* Methodology - designed and updated the protocol for the software
 * Data curation - elaborated and updated the Data Management Plan
 * Software - delevoped the computer program
 
