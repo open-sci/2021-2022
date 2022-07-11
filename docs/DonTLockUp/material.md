@@ -48,7 +48,7 @@ Authors' response to the reviews:
 
 
 ### Software developed
-Constance Dami, Chiara Manca, Alessandro Bertozzi, & Umut Kucuk. (2022). Coverage of DOAJ journals\' citations through OpenCitations - Software (Version 1). Zenodo. https://doi.org/10.5281/zenodo.6573898
+Alessandro Bertozzi, Chiara Manca, Constance Dami, & Silvio Peroni. (2022). open-sci/2021-2022-don-t-lock-up-code: Coverage of DOAJ journals' citations through OpenCitations v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6817227
 
 
 ### The data gathered while running the methodology
