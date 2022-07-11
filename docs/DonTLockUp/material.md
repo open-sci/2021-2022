@@ -60,4 +60,4 @@ Bertozzi, Alessandro, Dami, Constance, Kucuk, Umut, & Manca, Chiara. (2022). Cov
 
 
 ### Slides supporting the presentation
-<<Bibliographic reference in APA style of the last version>>
+Constance Dami, Chiara Manca, Umut Kucuk, & Alessandro Bertozzi. (2022, May 25). Presentation of "Coverage of DOAJ journals' citations through OpenCitations". Zenodo. https://doi.org/10.5281/zenodo.6579115
