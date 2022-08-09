@@ -26,7 +26,7 @@
 7. Writing - editing and review: review of the paper
 ## Material
 ### Data Management Plan
-- Venditti Giulia, Catizone Chiara, & Brembilla Davide. (2022). La Chouffe - Data Management Plan (0.0.4). Zenodo. 10.5281/zenodo.6977259
+- Venditti Giulia, Catizone Chiara, & Brembilla Davide. (2022). La Chouffe - Data Management Plan (0.0.4). Zenodo. doi:10.5281/zenodo.6977259
 
 - Reviews of the [initial version of the DMP](https://doi.org/10.5281/zenodo.6480483):
 
@@ -48,11 +48,11 @@ Authors' response to the reviews:
 
 
 ### Software developed
-- Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). La Chouffe Software (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.6857309
+- Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). La Chouffe Software (0.1.1). Zenodo. doi:10.5281/zenodo.6913873
 
 
 ### Data Gathered
-- Davide Brembilla, Chiara Catizone, & Giulia Venditti.  (2022). La Chouffe Dataset (0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6562909
+- Davide Brembilla, Chiara Catizone, & Giulia Venditti.  (2022). La Chouffe Dataset (0.1.1) [Data set]. Zenodo. doi:10.5281/zenodo.6913873
 
 ### Article Presenting the Research
 - Davide Brembilla, Chiara Catizone & Giulia Venditti. (2022). Availability of Article Metadata from Open Journals – A case study in DOAJ and Crossref. https://doi.org/10.5281/zenodo.6570290
