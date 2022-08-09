@@ -26,12 +26,12 @@
 7. Writing - editing and review: review of the paper
 ## Material
 ### Data Management Plan
-- Venditti Giulia, Catizone Chiara, & Brembilla Davide. (2022). La Chouffe - Data Management Plan (0.0.4). Zenodo. doi:10.5281/zenodo.6977259
+- Venditti Giulia, Catizone Chiara, & Brembilla Davide. (2022). La Chouffe - Data Management Plan (0.0.4). Zenodo. https://doi.org/10.5281/zenodo.6977259
 
 - Reviews of the [initial version of the DMP](https://doi.org/10.5281/zenodo.6480483):
 
-* Umut Kucuk. (2022). Review of: "La Chouffe DMP New". Qeios. doi:10.32388/PP47IN.
-* Chiara Manca. (2022). Review of: "La Chouffe DMP New". Qeios. doi:10.32388/KSPWTZ.
+* Umut Kucuk. (2022). Review of: "La Chouffe DMP New". Qeios. https://doi.org/10.32388/PP47IN.
+* Chiara Manca. (2022). Review of: "La Chouffe DMP New". Qeios. https://doi.org/10.32388/KSPWTZ.
 
 Authors' response to the reviews:
 * Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). Reply letter to 'DMP - La Chouffe' peer reviews. Zenodo. https://doi.org/10.5281/zenodo.6570347
@@ -40,19 +40,19 @@ Authors' response to the reviews:
 - Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). PROTOCOL – Availability of Open Access Metadata from Open Journals – A case study in DOAJ and Crossref V.5. Protocol. protocols.io. https://doi.org/10.17504/protocols.io.kxygxz7ywv8j/v5
 - Reviews of the [initial version of the Protocol](https://doi.org/10.17504/protocols.io.kxygxz7ywv8j/v1)
 
-* Constance Dami. (2022). Review of: "Availability of Open Citations from Open Journals in Crossref v1". Qeios. doi:10.32388/MOBTWR.
-* Alessandro Bertozzi. (2022). Review of: "Availability of Open Citations from Open Journals in Crossref v1". Qeios. doi:10.32388/V2LBTO.
+* Constance Dami. (2022). Review of: "Availability of Open Citations from Open Journals in Crossref v1". Qeios. https://doi.org/10.32388/MOBTWR.
+* Alessandro Bertozzi. (2022). Review of: "Availability of Open Citations from Open Journals in Crossref v1". Qeios. https://doi.org/10.32388/V2LBTO.
 
 Authors' response to the reviews:
 * Chiara Catizone, Giulia Venditti, & Davide Brembilla. (2022). Response Letter to Reviewers - Availability of Open Citations from Open Journals in Crossref -. https://doi.org/10.5281/zenodo.6530982
 
 
 ### Software developed
-- Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). La Chouffe Software (0.1.1). Zenodo. doi:10.5281/zenodo.6913873
+- Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). La Chouffe Software (0.1.1). Zenodo. https://doi.org/10.5281/zenodo.6977734
 
 
 ### Data Gathered
-- Davide Brembilla, Chiara Catizone, & Giulia Venditti.  (2022). La Chouffe Dataset (0.1.1) [Data set]. Zenodo. doi:10.5281/zenodo.6913873
+- Davide Brembilla, Chiara Catizone, & Giulia Venditti.  (2022). La Chouffe Dataset (0.1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6913873
 
 ### Article Presenting the Research
 - Davide Brembilla, Chiara Catizone & Giulia Venditti. (2022). Availability of Article Metadata from Open Journals – A case study in DOAJ and Crossref. https://doi.org/10.5281/zenodo.6570290
