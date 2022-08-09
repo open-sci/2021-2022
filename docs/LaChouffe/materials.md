@@ -59,4 +59,4 @@ Authors' response to the reviews:
 
 
 ### Slides supporting the presentation
-- Chiara Catizone, Davide Brembilla, & Giulia Venditti. (2022, May 25). Presentation La Chouffe team. Zenodo. https://doi.org/10.5281/zenodo.6579263
+- Chiara Catizone, Davide Brembilla, & Giulia Venditti. (2022, May 25). Presentation La Chouffe team. Zenodo. https://doi.org/10.5281/zenodo.6977377
