@@ -37,7 +37,7 @@ Authors' response to the reviews:
 * Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). Reply letter to 'DMP - La Chouffe' peer reviews. Zenodo. https://doi.org/10.5281/zenodo.6570347
 
 ### Protocol introducing the methodology
-- Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). PROTOCOL – Availability of Open Access Metadata from Open Journals – A case study in DOAJ and Crossref V.4. Protocol. protocols.io. https://doi.org/10.17504/protocols.io.kxygxz7ywv8j/v4
+- Davide Brembilla, Chiara Catizone, & Giulia Venditti. (2022). PROTOCOL – Availability of Open Access Metadata from Open Journals – A case study in DOAJ and Crossref V.5. Protocol. protocols.io. https://doi.org/10.17504/protocols.io.kxygxz7ywv8j/v5
 - Reviews of the [initial version of the Protocol](https://doi.org/10.17504/protocols.io.kxygxz7ywv8j/v1)
 
 * Constance Dami. (2022). Review of: "Availability of Open Citations from Open Journals in Crossref v1". Qeios. doi:10.32388/MOBTWR.
