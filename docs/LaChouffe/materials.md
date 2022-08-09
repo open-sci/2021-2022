@@ -26,7 +26,7 @@
 7. Writing - editing and review: review of the paper
 ## Material
 ### Data Management Plan
-- Venditti Giulia, Catizone Chiara, & Brembilla Davide. (2022). La Chouffe - Data Management Plan (0.0.3). Zenodo. https://doi.org/10.5281/zenodo.6570286
+- Venditti Giulia, Catizone Chiara, & Brembilla Davide. (2022). La Chouffe - Data Management Plan (0.0.4). Zenodo. 10.5281/zenodo.6977259
 
 - Reviews of the [initial version of the DMP](https://doi.org/10.5281/zenodo.6480483):
 
