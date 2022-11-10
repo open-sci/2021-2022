@@ -198,7 +198,7 @@ This space contains all the material related to the Open Science course of the [
       * 09:00-09:05 | welcoming and instructions
       * 09:05-09:55 | project presentation by [Don’t lock up](https://github.com/open-sci/2021-2022/tree/main/docs/DonTLockUp/material.md)
       * 09:55-10:00 | break
-      * 10:00-10:50 | project presentation by [La Chouffe](https://github.com/open-sci/2021-2022/tree/main/docs/LaChouffe/material.md)
+      * 10:00-10:50 | project presentation by [La Chouffe](https://github.com/open-sci/2021-2022/tree/main/docs/LaChouffe/materials.md)
       * 10:50-11:00 | farewell
     * Organisation 
       * Each group has its own presentation slot (50 minutes) organised as follows:
